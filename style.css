@@ -67,11 +67,13 @@ h2 {
 .btn--big {
   font-size: 18px;
   padding: 16px 32px;
+  margin: 30px;
 }
 
 .btn--small {
   font-size: 14px;
   padding: 8px 12px;
+  margin: 30px;
 }
 
 /* ------------------------ */

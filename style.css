@@ -67,13 +67,11 @@ h2 {
 .btn--big {
   font-size: 18px;
   padding: 16px 32px;
-  margin: 30px;
 }
 
 .btn--small {
   font-size: 14px;
   padding: 8px 12px;
-  margin: 30px;
 }
 
 /* ------------------------ */
@@ -111,6 +109,17 @@ img {
 
 /* FEATURES */
 .features-icon {
+  stroke: #087f5b;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
+}
+
+.features-cion {
+  stroke: #087f5b;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
 }
 
 .features-title {
@@ -174,6 +183,9 @@ h3 {
 }
 
 .chair-icon {
+  stroke: #087f5b;
+  width: 24px;
+  height: 24px;
 }
 
 .chair-price {
